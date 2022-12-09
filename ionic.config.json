@@ -1,0 +1,7 @@
+{
+  "name": "tst-envr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
